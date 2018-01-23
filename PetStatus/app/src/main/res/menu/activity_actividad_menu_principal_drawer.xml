@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/registronav"
+            android:icon="@drawable/ic_add_box_24dp"
+            android:title="Registrar mascota" />
+        <item
+            android:id="@+id/mapeoonav"
+            android:icon="@drawable/ic_pin_drop_24dp"
+            android:title="Mapear" />
+        <item
+            android:id="@+id/primerosAuxnav"
+            android:icon="@drawable/ic_add_24dp"
+            android:title="Primeros auxilios" />
+    </group>
+
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_cancel_24dp"
+                android:title="Cerrar sesión" />
+
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "344672165921",
+    "firebase_url": "https://petstatus-2eb98.firebaseio.com",
+    "project_id": "petstatus-2eb98",
+    "storage_bucket": "petstatus-2eb98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344672165921:android:ace6cb2000f7f69e",
+        "android_client_info": {
+          "package_name": "com.bssdpg.petstatus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344672165921-j5vpsstjdkgeejsr13i9jkro0c2r0j99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTglQBZdRbgaTlhjwkKhu1cZYiD-vhvDI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

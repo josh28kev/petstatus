@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PetStatus</string>
+    <string name="title_activity_actividad_menu_principal">Actividad_menuPrincipal</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_actividad_necesidades">Actividad_necesidades</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_actividad_detalles_mascota">Actividad_detallesMascota</string>
+    <string name="title_activity_actividad_detalle_dueno">Actividad_detalleDueno</string>
+</resources>
